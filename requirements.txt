@@ -1,5 +1,5 @@
 streamlit
 pandas
 matplotlib
-st_autorefresh
+streamlit_autorefresh
 sqlite3
