@@ -2,4 +2,3 @@ streamlit
 pandas
 matplotlib
 streamlit_autorefresh
-sqlite3
